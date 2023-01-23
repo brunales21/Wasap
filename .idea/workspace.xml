@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="018abac2-07ff-4a4f-a7b6-08431a470500" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ejemplo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EchoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemploHerencia/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemploHerencia/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practica2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practica2/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica1/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EchoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica1/EchoFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practica1/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,36 +38,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/alumnoDAM/Workspace/Programacion/Proyectos/Wasap"
   }
-}</component>
-  <component name="RunManager" selected="Application.Chat">
+}]]></component>
+  <component name="RunManager" selected="Application.EchoFile">
     <configuration name="Chat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chat" />
+      <option name="MAIN_CLASS_NAME" value="practica1.Chat" />
       <module name="Wasap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Client" />
+      <option name="MAIN_CLASS_NAME" value="practica1.Client" />
       <module name="Wasap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="EchoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EchoFile" />
+      <option name="MAIN_CLASS_NAME" value="practica1.EchoFile" />
       <module name="Wasap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Server" />
+      <option name="MAIN_CLASS_NAME" value="practica1.Server" />
       <module name="Wasap" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,9 +77,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EchoFile" />
         <item itemvalue="Application.Chat" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.EchoFile" />
         <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>

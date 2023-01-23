@@ -1,3 +1,5 @@
+package practica1;
+
 import java.io.IOException;
 import java.io.PrintStream;
 import java.net.Socket;
@@ -38,13 +40,14 @@ public class Client {
 
     public static void main(String[] args) throws IOException {
 /*
-        Client t1 = new Client("localhost", 23);
+        practica1.Client t1 = new practica1.Client("localhost", 23);
         t1.cleanConsole();
         t1.connect();
         t1.send();
         t1.recv();
 
  */
+        System.out.println();
 
 
         Client c1 = new Client("localhost", 23);
